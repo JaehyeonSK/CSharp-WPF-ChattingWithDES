@@ -5,6 +5,11 @@
 * JHSocketEngine - TCP Socket Library (자체 제작, [링크](https://github.com/JaehyeonSK/JHSocketEngine))
 * DES(Data Encryption Standard) - 암호화 알고리즘 (자체 제작, [링크](https://github.com/JaehyeonSK/DESAlgorithm))
 
+### 언어 및 플랫폼  
+  
+* C#/WPF
+* .Net Framework 4.5.2
+
 ### 기능 명세서  
 * [pdf](docs/기능명세.pdf)  
 * [docx](docs/기능명세.docx)  
