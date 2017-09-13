@@ -6,8 +6,8 @@
 * DES(Data Encryption Standard) - 암호화 알고리즘 (자체 제작, [링크](https://github.com/JaehyeonSK/DESAlgorithm))
 
 ### 기능 명세서  
-* [pdf](기능명세.pdf)  
-* [docx](기능명세.docx)  
+* [pdf](docs/기능명세.pdf)  
+* [docx](docs/기능명세.docx)  
 
 ### 스크린샷  
   
